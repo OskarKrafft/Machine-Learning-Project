@@ -9,6 +9,7 @@ pandas = "*"
 pyreadstat = "*"
 matplotlib = "*"
 numpy = "*"
+openpyxl = "*"
 
 [dev-packages]
 
