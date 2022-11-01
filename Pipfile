@@ -10,6 +10,7 @@ pyreadstat = "*"
 matplotlib = "*"
 numpy = "*"
 openpyxl = "*"
+pathlib = "*"
 
 [dev-packages]
 
