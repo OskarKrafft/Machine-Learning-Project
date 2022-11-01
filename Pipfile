@@ -11,6 +11,7 @@ matplotlib = "*"
 numpy = "*"
 openpyxl = "*"
 pathlib = "*"
+sklearn = "*"
 
 [dev-packages]
 
