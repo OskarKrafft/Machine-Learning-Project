@@ -12,6 +12,7 @@ numpy = "*"
 openpyxl = "*"
 pathlib = "*"
 sklearn = "*"
+scikit-plot = "*"
 
 [dev-packages]
 
