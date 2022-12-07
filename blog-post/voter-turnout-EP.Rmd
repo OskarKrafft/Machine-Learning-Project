@@ -6,7 +6,10 @@ author:
     url: www.github.com/OskarKrafft/Machine-Learning-Project
 date: "`r Sys.Date()`" 
 categories: 
-  - Natural Language Processing 
+  - Machine Learning
+  - SHAP
+  - LIME
+  - Explainable AI 
 creative_commons: CC BY
 repository_url: www.github.com/OskarKrafft/Machine-Learning-Project
 output: 
